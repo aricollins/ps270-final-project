@@ -11,4 +11,4 @@ output:
 
 ## Project thoughts
 
-I am interested in exploring data related to the 2024 Presidential Election. 
+I am interested in exploring data related to the 2024 Presidential Election. Specifically, I could look at poll data or data on specific issues discussed between the candidates. 
